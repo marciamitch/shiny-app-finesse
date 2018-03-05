@@ -1,1 +1,2 @@
-# shiny-app-finesseCreating an app to facilitate financial modeling
+# shiny-app-finesse
+Creating an app to facilitate financial modeling
